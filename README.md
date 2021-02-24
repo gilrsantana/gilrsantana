@@ -20,5 +20,5 @@ Greetings.
 
  <br/> :purple_heart: &nbsp; I'm looking for colaborate with frontend and back and projects
  <br/> :blush: &nbsp; I can help you with HTML, CSS and JS
- <br/> :computer: &nbsp; Minha stack: JS
+ <br/> :computer: &nbsp; Stack: JS
 
