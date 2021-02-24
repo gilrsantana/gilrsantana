@@ -32,13 +32,11 @@ Actually Iḿ working as help desker at SKTI and, as personal challenge, I'm hel
 ## Meet me
 You can find me through the channels below. I'm waiting for you so you can have that cofee.
 Greetings.
-Sou um FullStack Developer :computer:
-
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GilmarSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmarribeirosantana/)](https://www.linkedin.com/in/gilmarribeirosantana/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gilmar.ribeiro.santana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilmar.ribeiro.santana@gmail.com)](mailto:gilmar.ribeiro.santana@gmail.com)
+
+ <br/> :purple_heart: &nbsp; I'm looking for colaborate with frontend and back and projects
+ <br/> :blush: &nbsp; I can help you with HTML, CSS and JS
+ <br/> :computer: &nbsp; Minha stack: JS
+
