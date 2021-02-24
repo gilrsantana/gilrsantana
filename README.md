@@ -1,9 +1,6 @@
-
-
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-
 # Gilmar Santana
+
+![](./perfil_git.jpg)
 
 ## Hi there 👋
 I'm a professional building a new carrer in programming and I fell in love with the progroamming world.
