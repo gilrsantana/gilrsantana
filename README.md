@@ -3,13 +3,13 @@
 ![](./perfil_git.jpg)
 
 ## Hi there 👋
-I'm a professional building a new carrer in programming and I fell in love with the progroamming world.
+I'm a professional building a new carrer in programming and I fell in love with this world.
 I started my jorney enpowering my skills in programming logic and now I studing frontend HTML, CSS and JS.
 My target is will be a fullstack developer working and solve problems using technology.
 
 ## Carrer
 My carrer was build at infraestructure area working in projects with cabling, electrical instalations, PBX, CCTV, access control systems and else.
-Actually Iḿ working as help desker at SKTI and, as personal challenge, I'm helping peoples and small companies to enter in the digital world.
+Actually I'm working as help desker at SKTI and, as personal challenge, I'm helping peoples and small companies to enter in the digital world.
 
 ## Meet me
 You can find me through the channels below. I'm waiting for you so you can have that cofee.
