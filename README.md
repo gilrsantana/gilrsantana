@@ -14,7 +14,7 @@ Actually I'm working as help desker at SKTI and, as personal challenge, I'm help
 ## Meet me
 You can find me through the channels below. I'm waiting for you so you can have that cofee.
 Greetings.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GilmarSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmarribeirosantana/)](https://www.linkedin.com/in/gilmarribeirosantana/) 
+ <br/> :email: &nbsp; Meet me: [![Linkedin Badge](https://img.shields.io/badge/-GilmarSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmarribeirosantana/)](https://www.linkedin.com/in/gilmarribeirosantana/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gilmar.ribeiro.santana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilmar.ribeiro.santana@gmail.com)](mailto:gilmar.ribeiro.santana@gmail.com)
 
