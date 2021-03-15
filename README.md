@@ -17,8 +17,8 @@ Greetings.
  <br/> :email: &nbsp; Meet me: [![Linkedin Badge](https://img.shields.io/badge/-GilmarSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmarribeirosantana/)](https://www.linkedin.com/in/gilmarribeirosantana/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gilmar.ribeiro.santana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilmar.ribeiro.santana@gmail.com)](mailto:gilmar.ribeiro.santana@gmail.com)
-
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=Gilmar&url=http%3A%2F%2Fwww.gilmarsantana.com">
+|
+[Website](http://www.gilmarsantana.com)
 
  <br/> :purple_heart: &nbsp; I'm looking for colaborate with frontend and back and projects
  <br/> :blush: &nbsp; I can help you with HTML, CSS and JS
