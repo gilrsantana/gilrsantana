@@ -10,7 +10,7 @@ My target is will be a fullstack developer working and solve problems using tech
 
 ## Carrer
 My carrer was build at infraestructure area working in projects with cabling, electrical instalations, PBX, CCTV, access control systems and else.
-Actually I'm working as intern at  [![Website](https://img.shields.io/website?down_color=red&up_message=ECOSistemas&url=http%3A%2F%2Fwww.gilmarsantana.com)](https://www.ecosistemas.com.br)  and, as personal challenge, I'm helping peoples and small companies to enter in the digital world.
+Actually I'm working as intern at  [![Website](https://img.shields.io/website?down_color=red&up_message=ECOSistemas&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.ecosistemas.com.br)  and, as personal challenge, I'm helping peoples and small companies to enter in the digital world.
 
 ## Meet me
 You can find me through the channels below. I'm waiting for you so you can have that cofee.
@@ -19,7 +19,7 @@ Greetings.
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gilmar.ribeiro.santana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilmar.ribeiro.santana@gmail.com)](mailto:gilmar.ribeiro.santana@gmail.com)
 |
-[![Website](https://img.shields.io/website?down_color=red&up_message=Gilmar&url=http%3A%2F%2Fwww.gilmarsantana.com)](http://www.gilmarsantana.com)
+[![Website](https://img.shields.io/website?down_color=red&up_message=Gilmar&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.gilmarsantana.com)
 
  <br/> :purple_heart: &nbsp; I'm looking for colaborate with frontend and back and projects
  <br/> :blush: &nbsp; I can help you with HTML, CSS and JS
