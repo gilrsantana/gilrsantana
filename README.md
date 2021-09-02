@@ -22,6 +22,6 @@ Greetings.
 [![Website](https://img.shields.io/website?down_color=red&up_message=Gilmar&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.gilmarsantana.com)
 
  <br/> :purple_heart: &nbsp; I'm looking for colaborate with frontend and back and projects
- <br/> :blush: &nbsp; I can help you with HTML, CSS and JS
+ <br/> :blush: &nbsp; I can help you with HTML, CSS, JS and C#
  <br/> :computer: &nbsp; Stack: C#
 
