@@ -10,7 +10,7 @@ My target is will be a fullstack developer working and solve problems using tech
 
 ## Carrer
 My carrer was build at infraestructure area working in projects with cabling, electrical instalations, PBX, CCTV, access control systems and else.<br>
-Actually I'm working as intern at  [![Website](https://img.shields.io/website?down_color=red&up_message=ECO&nbspSistemas&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.ecosistemas.com.br)  and, as personal challenge, I'm helping peoples and small companies to enter in the digital world.
+Actually I'm working as intern at  [![Website](https://img.shields.io/website?down_color=red&up_message=ECOSistemas&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.ecosistemas.com.br)  and, as personal challenge, I'm helping peoples and small companies to enter in the digital world.
 
 ## Meet me
 You can find me through the channels below. I'm waiting for you so you can have that cofee.
