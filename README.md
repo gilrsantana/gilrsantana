@@ -5,11 +5,11 @@
 ## Hi there 👋
 I'm a professional building a new carrer in programming and I fell in love with this world.
 I started my jorney enpowering my skills in programming logic and frontend  technologies HTML, CSS and JS.<br>
-I'm now studying C# as the main backend language.
+I'm now studying C# as the main backend language.<br>
 My target is will be a fullstack developer working and solve problems using technology.
 
 ## Carrer
-My carrer was build at infraestructure area working in projects with cabling, electrical instalations, PBX, CCTV, access control systems and else.
+My carrer was build at infraestructure area working in projects with cabling, electrical instalations, PBX, CCTV, access control systems and else.<br>
 Actually I'm working as intern at  [![Website](https://img.shields.io/website?down_color=red&up_message=ECOSistemas&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.ecosistemas.com.br)  and, as personal challenge, I'm helping peoples and small companies to enter in the digital world.
 
 ## Meet me
