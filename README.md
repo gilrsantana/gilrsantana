@@ -8,7 +8,7 @@ I started my jorney enpowering my skills in programming logic and frontend  tech
 I'm now studying C# as the main backend language and learning Web3 technologies with blockchain, smart contracts and Solidity using Ethereum and Polygon networks.<br>
 My target is will be a fullstack developer working and solve problems using technology.
 
-## Carrerruffle
+## Carrer
 My carrer was build at infraestructure area working in projects with cabling, electrical instalations, PBX, CCTV, access control systems and else.<br>
 Today, I'm working as junior developer at  [![Website](https://img.shields.io/website?down_color=red&up_message=ECOSistemas&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.ecosistemas.com.br)  and, as personal challenge, I'm helping peoples and small companies to enter in the digital world.
 
