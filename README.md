@@ -5,10 +5,10 @@
 ## Hi there 👋
 I'm a professional building a new carrer in programming and I fell in love with this world.
 I started my jorney enpowering my skills in programming logic and frontend  technologies HTML, CSS and JS.<br>
-I'm now studying C# as the main backend language.<br>
+I'm now studying C# as the main backend language and learning Web3 technologies with blockchain, smart contracts and Solidity using Ethereum and Polygon networks.<br>
 My target is will be a fullstack developer working and solve problems using technology.
 
-## Carrer
+## Carrerruffle
 My carrer was build at infraestructure area working in projects with cabling, electrical instalations, PBX, CCTV, access control systems and else.<br>
 Today, I'm working as junior developer at  [![Website](https://img.shields.io/website?down_color=red&up_message=ECOSistemas&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.ecosistemas.com.br)  and, as personal challenge, I'm helping peoples and small companies to enter in the digital world.
 
@@ -21,7 +21,7 @@ Greetings.
 |
 [![Website](https://img.shields.io/website?down_color=red&up_message=Gilmar&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.gilmarsantana.com)
 
- <br/> :purple_heart: &nbsp; I'm looking for colaborate with frontend and back and projects
- <br/> :blush: &nbsp; I can help you with HTML, CSS, JS and C#
+ <br/> :purple_heart: &nbsp; I'm looking for colaborate with Web3 projects
+ <br/> :blush: &nbsp; I can help you with HTML, CSS, JS, C# and Solidity.
  <br/> :computer: &nbsp; Stack: C#
 
