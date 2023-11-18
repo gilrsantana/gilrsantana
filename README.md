@@ -10,9 +10,9 @@ My target is will be a fullstack developer working and solve problems using tech
 
 ## Carrer
 My carrer was build at infraestructure area working in projects with cabling, electrical instalations, PBX, CCTV, access control systems and else.<br>
-I worked as developer at  [![Website](https://img.shields.io/website?down_color=green&up_message=ECOSistemas&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.ecosistemas.com.br)  and now, I'm Software Engeneering at [![Website](https://img.shields.io/website?down_color=blue&up_message=Senac&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.rj.senac.br).
+I worked as developer at  [![Website](https://img.shields.io/website?down_color=green&up_message=ECOSistemas&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.ecosistemas.com.br)  and now, I'm Software Engeneering at [![Website](https://img.shields.io/badge/website-Senac-orange)](https://rj.senac.br).
 
-[![Website](https://img.shields.io/badge/website-Senac-orange)](https://rj.senac.br)
+
 
 
 ## Meet me
