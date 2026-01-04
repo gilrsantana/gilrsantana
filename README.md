@@ -10,7 +10,7 @@ Today, I work building reliable, performant, and business-driven solutions, part
 
 ## 🔧 Tech Focus
 - **Backend & Web**: .NET (ASP.NET Core, Razor Pages, MVC, Web Forms), REST APIs  
-- **Databases**: SQL Server, MongoDB  
+- **Databases**: SQL Server, Oracle, MySQL, MongoDB  
 - **DevOps & Reliability**: Linux, Docker, RabbitMQ, CI/CD  
 - **Cloud**: Azure  
 - **Frontend (supporting role)**: Angular  
