@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gilmar Santana
 
-![](./profile_image.jpeg)
+![](./profile_image_sm.jpeg)
 
 Software Engineer specializing in **.NET backend development**, system integration, distributed systems, and scalable enterprise applications. Throughout my journey, I transitioned from the telecommunications and infrastructure field into software engineering — a decision that deeply reshaped my career and reinforced my passion for technology, problem solving, and continuous learning.
 
