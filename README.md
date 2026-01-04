@@ -9,7 +9,7 @@ Today, I work building reliable, performant, and business-driven solutions, part
 ---
 
 ## 🔧 Tech Focus
-- **Backend & Web**: .NET (ASP.NET Core, Razor Pages, MVC, Web Forms), REST APIs  
+- **Backend & Web**: .NET (.NET Framework, Web Forms, ASP.NET Core, MVC, Razor Pages, Blazor), REST APIs  
 - **Databases**: SQL Server, Oracle, MySQL, MongoDB  
 - **DevOps & Reliability**: Linux, Docker, RabbitMQ, CI/CD  
 - **Cloud**: Azure  
@@ -20,7 +20,7 @@ Today, I work building reliable, performant, and business-driven solutions, part
 ---
 
 ## 💼 Professional Highlights
-- Delivered enterprise-grade software solutions across Healthcare and Education domains  
+- Delivered enterprise-grade software solutions across Healthcare, Education and Legal Sector domains  
 - Strong experience modernizing systems, improving performance, and increasing reliability  
 - Passionate about teamwork, knowledge sharing, and building meaningful technology  
 - Constant learner, currently growing toward **Software Architecture**
