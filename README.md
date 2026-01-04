@@ -1,30 +1,48 @@
-# Gilmar Santana
+# 👋 Hi, I'm Gilmar Santana
 
 ![](./perfil_git.jpg)
 
-## Hi there 👋
-I'm a professional building a new carrer in programming and I fell in love with this world.
-I started my jorney enpowering my skills in programming logic and frontend  technologies HTML, CSS and JS.<br>
-I'm now studying C# as the main backend language and learning Web3 technologies with blockchain, smart contracts and Solidity using Ethereum and Polygon networks.<br>
-My target is will be a fullstack developer working and solve problems using technology.
+Software Engineer specializing in **.NET backend development**, system integration, distributed systems, and scalable enterprise applications. Throughout my journey, I transitioned from the telecommunications and infrastructure field into software engineering — a decision that deeply reshaped my career and reinforced my passion for technology, problem solving, and continuous learning.
 
-## Carrer
-My carrer was build at infraestructure area working in projects with cabling, electrical instalations, PBX, CCTV, access control systems and else.<br>
-I worked as developer at  [![Website](https://img.shields.io/website?down_color=green&up_message=ECOSistemas&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.ecosistemas.com.br)  and now, I'm Software Engeneering at [![Website](https://img.shields.io/badge/website-Senac-orange)](https://rj.senac.br).
+Today, I work building reliable, performant, and business-driven solutions, particularly in **Healthcare and Education**, always balancing technical excellence with real-world impact.
 
+---
 
+## 🔧 Tech Focus
+- **Backend & Web**: .NET (ASP.NET Core, Razor Pages, MVC, Web Forms), REST APIs  
+- **Databases**: SQL Server, MongoDB  
+- **DevOps & Reliability**: Linux, Docker, RabbitMQ, CI/CD  
+- **Cloud**: Azure  
+- **Frontend (supporting role)**: Angular  
+- **Architecture Interests**: Event Sourcing, Microkernel, Distributed Systems  
+- **Web3 (side interest)**: Ethereum, Smart Contracts, Nethereum
 
+---
 
-## Meet me
-You can find me through the channels below. I'm waiting for you so you can have that cofee.
-Greetings.
- <br/> :email: &nbsp; Meet me: [![Linkedin Badge](https://img.shields.io/badge/-GilmarSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmarribeirosantana/)](https://www.linkedin.com/in/gilmarribeirosantana/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-gilmar.ribeiro.santana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilmar.ribeiro.santana@gmail.com)](mailto:gilmar.ribeiro.santana@gmail.com)
-|
-[![Website](https://img.shields.io/website?down_color=red&up_message=Gilmar&url=https%3A%2F%2Fwww.gilmarsantana.com)](https://www.gilmarsantana.com)
+## 💼 Professional Highlights
+- Delivered enterprise-grade software solutions across Healthcare and Education domains  
+- Strong experience modernizing systems, improving performance, and increasing reliability  
+- Passionate about teamwork, knowledge sharing, and building meaningful technology  
+- Constant learner, currently growing toward **Software Architecture**
 
- <br/> :purple_heart: &nbsp; I'm looking for colaborate with Web3 projects
- <br/> :blush: &nbsp; I can help you with HTML, CSS, JS, C# and Solidity.
- <br/> :computer: &nbsp; Stack: C#
+---
+
+## 🎯 What drives me
+Listening to real needs, breaking complex challenges into meaningful solutions, fostering collaboration, and building software that truly matters — always with humility and curiosity to keep learning.
+
+---
+
+## 🌎 Languages
+Portuguese (Native) • English (Professional Working Proficiency)
+
+---
+
+## ☕ Let’s connect
+I’d love to share ideas, build together, or simply talk tech.
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/gilmarribeirosantana  
+🌐 **Website:** https://www.gilmarsantana.com  
+📧 **Email:** gilmar.ribeiro.santana@gmail.com
+
+---
 
